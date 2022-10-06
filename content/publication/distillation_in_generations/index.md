@@ -1,5 +1,5 @@
 ---
-title: "Knowledge Distillation in Generations: More Tolerant Teachers Educate Better Students"
+title: "Training Deep Neural Networks in Generations: A More Tolerant Teacher Educates Better Students"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
