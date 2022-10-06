@@ -26,7 +26,7 @@ publishDate: "2019-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *, 2019*
+publication: In *Proceedings of the AAAI Conference on Artificial Intelligence, 2019*
 publication_short: In *AAAI19*
 
 abstract: "We focus on the problem of training a deep neural network in generations. The flowchart is that, in order to optimize the target network (student), another network (teacher) with the same architecture is first trained, and used to provide part of supervision signals in the next stage. While this strategy leads to a higher accuracy, many aspects (e.g., why teacher-student optimization helps) still need further explorations.
