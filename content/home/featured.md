@@ -34,5 +34,3 @@ design:
   #   4 = Citation (publication only)
   view: 3
 ---
-
-For full publication list, please see [here](./publication/).
