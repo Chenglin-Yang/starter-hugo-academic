@@ -20,8 +20,8 @@ bio: ""
 interests:
 - Computer Vision
 - Neural Network Architecture
-- Knowledge Distillation
 - Reinforcement Learning
+- Knowledge Distillation
 
 # Education to show in About widget
 education:
@@ -70,7 +70,9 @@ highlight_name: true
 <br/>
 I am currently a third-year CS Ph.D. student at Johns Hopkins University, advised by <a href="https://en.wikipedia.org/wiki/Bloomberg_Distinguished_Professorships"> Bloomberg Distinguished Professor</a> <a href="https://cs.jhu.edu/~ayuille/"><b>Alan Yuille</b></a>.
 
-I received my M.S. in Robotics from Johns Hopkins University. Before that, I obtained my B.E. in Engineering Mechanics from Beijing Jiaotong University, where I am honored to work with <a href="https://en.wikipedia.org/wiki/Changjiang_Scholars_Program"> Changjiang Distinguished Professor</a> <a href="https://scholar.google.com.hk/citations?user=rNzP5OAAAAAJ&hl=zh-CN"> <b>Yue-Sheng Wang</b> </a>. I will never forget the time spent in Mechanics which teaches me to be grateful and concentrate.
+I received my M.S. in Robotics from Johns Hopkins University. Before that, I obtained my B.E. in Engineering Mechanics from Beijing Jiaotong University, where I was honored to work with <a href="https://en.wikipedia.org/wiki/Changjiang_Scholars_Program"> Changjiang Distinguished Professor</a> <a href="https://scholar.google.com.hk/citations?user=rNzP5OAAAAAJ&hl=zh-CN"> <b>Yue-Sheng Wang</b> </a>. I will never forget the time spent in Mechanics which taught me to be grateful and concentrate.
+
+I have spent great time at Google and Adobe.
 
 My Chinese name is 杨程麟.
 
