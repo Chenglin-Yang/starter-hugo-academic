@@ -72,7 +72,7 @@ I am currently a fourth-year CS Ph.D. student at Johns Hopkins University, advis
 
 I received my M.S. in Robotics from Johns Hopkins University. Before that, I obtained my B.E. in Engineering Mechanics from Beijing Jiaotong University, where I was honored to work with <a href="https://en.wikipedia.org/wiki/Changjiang_Scholars_Program"> Changjiang Distinguished Professor</a> <a href="https://scholar.google.com.hk/citations?user=rNzP5OAAAAAJ&hl=zh-CN"> <b>Yue-Sheng Wang</b> </a>. I will never forget the time spent in Mechanics which taught me to be grateful and concentrate.
 
-I am currently a Research Intern at Google Deepmind. I have spent great time at Google and Adobe.
+I am currently a Research Intern at Google DeepMind. I have spent great time at Google and Adobe.
 
 My Chinese name is 杨程麟.
 
