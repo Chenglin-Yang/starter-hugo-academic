@@ -19,6 +19,7 @@ bio: ""
 # Interests to show in About widget
 interests:
 - Computer Vision
+- Vision Language Model
 - Neural Network Architecture
 - Reinforcement Learning
 - Knowledge Distillation
