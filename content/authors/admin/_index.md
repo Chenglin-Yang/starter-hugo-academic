@@ -69,9 +69,9 @@ email: ""
 highlight_name: true
 ---
 <br/>
-I am currently a Research Scientist at <a href="https://www.bytedance.com/en/"> <b>ByteDance</b> </a>.
+I am currently a Research Scientist at <a href="https://www.bytedance.com/en/"><b>ByteDance</b></a>.
 
-I received my Ph.D. in Computer Sciense and M.S. in Robotics from <a href="https://www.jhu.edu/"> Johns Hopkins University, advised by <a href="https://en.wikipedia.org/wiki/Bloomberg_Distinguished_Professorships"> Bloomberg Distinguished Professor</a> <a href="https://cs.jhu.edu/~ayuille/"><b>Alan Yuille</b></a>.
+I received my Ph.D. in Computer Sciense and M.S. in Robotics from Johns Hopkins University, advised by <a href="https://en.wikipedia.org/wiki/Bloomberg_Distinguished_Professorships"> Bloomberg Distinguished Professor</a> <a href="https://cs.jhu.edu/~ayuille/"><b>Alan Yuille</b></a>.
 
 Before that, I obtained my B.E. in Engineering Mechanics from Beijing Jiaotong University, where I was honored to work with <a href="https://en.wikipedia.org/wiki/Changjiang_Scholars_Program"> Changjiang Distinguished Professor</a> <a href="https://scholar.google.com.hk/citations?user=rNzP5OAAAAAJ&hl=zh-CN"> <b>Yue-Sheng Wang</b> </a>.
 
