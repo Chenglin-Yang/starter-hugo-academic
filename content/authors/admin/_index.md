@@ -69,9 +69,6 @@ email: ""
 highlight_name: true
 ---
 <br/>
-# I am currently a fourth-year CS Ph.D. student at Johns Hopkins University, advised by <a href="https://en.wikipedia.org/wiki/Bloomberg_Distinguished_Professorships"> Bloomberg Distinguished Professor</a> <a href="https://cs.jhu.edu/~ayuille/"><b>Alan Yuille</b></a>.
-# I received my M.S. in Robotics from Johns Hopkins University. 
-# I am currently a Research Intern at Google DeepMind. I have spent great time at Google and Adobe.
 I am currently a Research Scientist at <a href="[https://www.jhu.edu/](https://www.bytedance.com/en/)"> ByteDance.
 
 I received my Ph.D. in Computer Sciense and M.S. in Robotics from <a href="https://www.jhu.edu/"> Johns Hopkins University, advised by <a href="https://en.wikipedia.org/wiki/Bloomberg_Distinguished_Professorships"> Bloomberg Distinguished Professor</a> <a href="https://cs.jhu.edu/~ayuille/"><b>Alan Yuille</b></a>.
