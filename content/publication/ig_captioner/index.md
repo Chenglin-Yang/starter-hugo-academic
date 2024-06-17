@@ -17,7 +17,7 @@ authors:
 # Author notes (optional)
 author_notes: []
 
-date: "2023"
+date: ""
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
