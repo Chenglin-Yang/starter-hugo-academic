@@ -69,7 +69,7 @@ email: ""
 highlight_name: true
 ---
 <br/>
-I am currently a Research Scientist at <a href="[https://www.jhu.edu/](https://www.bytedance.com/en/)"> ByteDance.
+I am currently a Research Scientist at <a href="https://www.bytedance.com/en/"> <b>ByteDance</b> </a>.
 
 I received my Ph.D. in Computer Sciense and M.S. in Robotics from <a href="https://www.jhu.edu/"> Johns Hopkins University, advised by <a href="https://en.wikipedia.org/wiki/Bloomberg_Distinguished_Professorships"> Bloomberg Distinguished Professor</a> <a href="https://cs.jhu.edu/~ayuille/"><b>Alan Yuille</b></a>.
 
