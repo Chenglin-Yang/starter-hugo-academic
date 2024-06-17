@@ -30,7 +30,7 @@ publishDate: "2023-11-28T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *arXiv, 2023*
+publication: In *arXiv*
 publication_short: In *arXiv23*
 
 abstract: "Generative training has been demonstrated to be powerful for building visual-language models. However, on zero-shot discriminative benchmarks, there is still a performance gap between models trained with generative and discriminative objectives. In this paper, we aim to narrow this gap by improving the efficacy of generative training on classification tasks, without any finetuning processes or additional modules.
