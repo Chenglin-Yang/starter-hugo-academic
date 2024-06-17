@@ -6,12 +6,12 @@ title: Chenglin Yang
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Student in Computer Science
+role: Research Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Johns Hopkins University
-  url: https://www.jhu.edu/
+- name: ByteDance
+  url: https://www.bytedance.com/en/
 
 # Short bio (displayed in user profile at end of posts)
 bio: ""
@@ -28,7 +28,7 @@ interests:
 education:
   courses:
   - course: Ph.D. in Computer Science
-    institution: Johns Hopkins University, 2019 - Now
+    institution: Johns Hopkins University, 2019 - 2024
     year: ""
   - course: M.S. in Robotics
     institution: Johns Hopkins University, 2017 - 2019
@@ -69,11 +69,16 @@ email: ""
 highlight_name: true
 ---
 <br/>
-I am currently a fourth-year CS Ph.D. student at Johns Hopkins University, advised by <a href="https://en.wikipedia.org/wiki/Bloomberg_Distinguished_Professorships"> Bloomberg Distinguished Professor</a> <a href="https://cs.jhu.edu/~ayuille/"><b>Alan Yuille</b></a>.
+# I am currently a fourth-year CS Ph.D. student at Johns Hopkins University, advised by <a href="https://en.wikipedia.org/wiki/Bloomberg_Distinguished_Professorships"> Bloomberg Distinguished Professor</a> <a href="https://cs.jhu.edu/~ayuille/"><b>Alan Yuille</b></a>.
+# I received my M.S. in Robotics from Johns Hopkins University. 
+# I am currently a Research Intern at Google DeepMind. I have spent great time at Google and Adobe.
+I am currently a Research Scientist at <a href="[https://www.jhu.edu/](https://www.bytedance.com/en/)"> ByteDance.
 
-I received my M.S. in Robotics from Johns Hopkins University. Before that, I obtained my B.E. in Engineering Mechanics from Beijing Jiaotong University, where I was honored to work with <a href="https://en.wikipedia.org/wiki/Changjiang_Scholars_Program"> Changjiang Distinguished Professor</a> <a href="https://scholar.google.com.hk/citations?user=rNzP5OAAAAAJ&hl=zh-CN"> <b>Yue-Sheng Wang</b> </a>. I will never forget the time spent in Mechanics which taught me to be grateful and concentrate.
+I received my Ph.D. in Computer Sciense and M.S. in Robotics from <a href="https://www.jhu.edu/"> Johns Hopkins University, advised by <a href="https://en.wikipedia.org/wiki/Bloomberg_Distinguished_Professorships"> Bloomberg Distinguished Professor</a> <a href="https://cs.jhu.edu/~ayuille/"><b>Alan Yuille</b></a>.
 
-I am currently a Research Intern at Google DeepMind. I have spent great time at Google and Adobe.
+Before that, I obtained my B.E. in Engineering Mechanics from Beijing Jiaotong University, where I was honored to work with <a href="https://en.wikipedia.org/wiki/Changjiang_Scholars_Program"> Changjiang Distinguished Professor</a> <a href="https://scholar.google.com.hk/citations?user=rNzP5OAAAAAJ&hl=zh-CN"> <b>Yue-Sheng Wang</b> </a>.
+
+During my graduate studies, I have interned at <a href="https://deepmind.google/"> <b>Google DeepMind</b> </a>, <a href="https://research.google/"> <b>Google Research</b> </a> and <a href="https://www.adobe.com/"> <b>Adobe</b> </a>.
 
 My Chinese name is 杨程麟.
 
