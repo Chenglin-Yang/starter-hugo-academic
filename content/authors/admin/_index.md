@@ -21,9 +21,6 @@ interests:
 - Quantization
 - Reinforcement Learning
 - Knowledge Distillation
-<!-- - Computer Vision -->
-<!-- - Vision Language Model -->
-<!-- - Neural Network Architecture -->
 
 # Education to show in About widget
 education:
