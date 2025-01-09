@@ -70,7 +70,7 @@ highlight_name: true
 
 I am currently a Research Scientist at <a href="https://www.bytedance.com/en/"><b>ByteDance</b></a>. During my graduate studies, I have interned at <a href="https://deepmind.google/"> <b>Google DeepMind</b></a>, <a href="https://research.google/"> <b>Google Research</b></a>, and <a href="https://www.adobe.com/"> <b>Adobe</b></a>.
 
-<!-- I received my Ph.D. in Computer Sciense, advised by <a href="https://en.wikipedia.org/wiki/Bloomberg_Distinguished_Professorships"> Bloomberg Distinguished Professor</a> <a href="https://cs.jhu.edu/~ayuille/"><b>Alan Yuille</b></a>, and M.S. in Robotics from Johns Hopkins University. -->
+<!-- I received my Ph.D. in Computer Sciense, advised by <a href="https://en.wikipedia.org/wiki/Bloomberg_Distinguished_Professorships"> Bloomberg Distinguished Professor</a> <a href="https://cs.jhu.edu/~ayuille/"><b>Alan Yuille</b></a>, and M.S. in Robotics from Johns Hopkins University in 2024. -->
 
 I received my Ph.D. in Computer Sciense, advised by <a href="https://en.wikipedia.org/wiki/Bloomberg_Distinguished_Professorships"> Bloomberg Distinguished Professor</a> <a href="https://cs.jhu.edu/~ayuille/"><b>Alan Yuille</b></a> from Johns Hopkins University.
 
