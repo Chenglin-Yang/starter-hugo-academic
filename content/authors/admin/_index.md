@@ -10,7 +10,7 @@ role: Research Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: chenglin.yangw at gmail dot com
+- name:
 # url: https://www.bytedance.com/en/
 url:
 
@@ -79,6 +79,6 @@ I received my Ph.D. in Computer Sciense, advised by <a href="https://en.wikipedi
 
 <!-- During my graduate studies, I have interned at <a href="https://deepmind.google/"> <b>Google DeepMind</b></a>, <a href="https://research.google/"> <b>Google Research</b></a>, and <a href="https://www.adobe.com/"> <b>Adobe</b></a>. -->
 
-My Chinese name is 杨程麟. My email address is chenglin.yangw@gmail.com
+My Chinese name is 杨程麟. Email: chenglin.yangw at gmail dot com
 
 <!--  {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
