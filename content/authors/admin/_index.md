@@ -15,7 +15,7 @@ url: https://www.bytedance.com/en/
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: Email: chenglin.yangw at gmail dot com
+bio: chenglin.yangw at gmail dot com
 
 # Interests to show in About widget
 interests:
