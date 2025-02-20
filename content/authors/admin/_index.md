@@ -9,9 +9,9 @@ superuser: true
 role: Research Scientist
 
 # Organizations/Affiliations to show in About widget
-# organizations:
-# - name: ByteDance
-#  url: https://www.bytedance.com/en/
+organizations:
+ - name: ByteDance
+ url: https://www.bytedance.com/en/
 
 
 # Short bio (displayed in user profile at end of posts)
