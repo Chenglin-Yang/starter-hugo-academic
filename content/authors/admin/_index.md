@@ -15,7 +15,7 @@ role: Research Scientist
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: Email: chenglin.yangw@gmail.com
+bio: Email: chenglin.yangw at gmail dot com
 
 # Interests to show in About widget
 interests:
