@@ -10,12 +10,12 @@ role: Research Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: ByteDance
-url: https://www.bytedance.com/en/
-
+- name: chenglin.yangw at gmail dot com
+# url: https://www.bytedance.com/en/
+url:
 
 # Short bio (displayed in user profile at end of posts)
-bio: chenglin.yangw at gmail dot com
+bio:
 
 # Interests to show in About widget
 interests:
