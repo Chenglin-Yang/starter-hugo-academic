@@ -25,17 +25,17 @@ interests:
 - Knowledge Distillation
 
 # Education to show in About widget
-education:
-  courses:
-  - course: Ph.D. in Computer Science
-    institution: Johns Hopkins University, 2019 - 2024
-    year: ""
-  - course: M.S. in Robotics
-    institution: Johns Hopkins University, 2017 - 2019
-    year: ""
-  - course: B.E. in Engineering Mechanics
-    institution: Beijing Jiaotong University, 2013 - 2017
-    year: ""
+# education:
+#   courses:
+#   - course: Ph.D. in Computer Science
+#     institution: Johns Hopkins University, 2019 - 2024
+#     year: ""
+#   - course: M.S. in Robotics
+#     institution: Johns Hopkins University, 2017 - 2019
+#     year: ""
+#   - course: B.E. in Engineering Mechanics
+#     institution: Beijing Jiaotong University, 2013 - 2017
+#     year: ""
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -70,7 +70,7 @@ highlight_name: true
 ---
 <br/>
 
-I am currently a Research Scientist at <a href="https://www.bytedance.com/en/"><b>ByteDance</b></a>. During my graduate studies, I have interned at <a href="https://deepmind.google/"> <b>Google DeepMind</b></a>, <a href="https://research.google/"> <b>Google Research</b></a>, and <a href="https://www.adobe.com/"> <b>Adobe</b></a>.
+I am currently a Research Scientist at <a href="https://seed.bytedance.com/en/"><b>ByteDance Seed</b></a>. During my graduate studies, I have interned at <a href="https://deepmind.google/"> <b>Google DeepMind</b></a>, <a href="https://research.google/"> <b>Google Research</b></a>, and <a href="https://www.adobe.com/"> <b>Adobe</b></a>.
 
 <!-- I received my Ph.D. in Computer Sciense, advised by <a href="https://en.wikipedia.org/wiki/Bloomberg_Distinguished_Professorships"> Bloomberg Distinguished Professor</a> <a href="https://cs.jhu.edu/~ayuille/"><b>Alan Yuille</b></a>, and M.S. in Robotics from Johns Hopkins University in 2024. -->
 
