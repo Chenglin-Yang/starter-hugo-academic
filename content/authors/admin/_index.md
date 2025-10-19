@@ -19,7 +19,7 @@ bio:
 
 # Interests to show in About widget
 # interests:
-Focus:
+focus:
 - Pretraining of LLMs
 - Quantization
 - Reinforcement Learning
