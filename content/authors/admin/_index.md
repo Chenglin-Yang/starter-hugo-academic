@@ -19,7 +19,7 @@ bio:
 
 # Interests to show in About widget
 interests:
-- Pretraining of Large Language Models
+- Pretraining of LLMs
 - Quantization
 - Reinforcement Learning
 - Knowledge Distillation
